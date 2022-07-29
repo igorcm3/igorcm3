@@ -20,6 +20,8 @@ Atualmente, trabalho na [Unoesc](https://www.unoesc.edu.br/) fazendo parte do ti
   ![Snake animation](https://github.com/igorcm3/igorcm3/blob/output/github-contribution-grid-snake.svg)
   
  </div> 
+ 
+ Sou formado em Engenharia da computação e estou cursando uma especialização em Arquitetura de software e soluções.
 
 ## Skills:
 - Java 8+
