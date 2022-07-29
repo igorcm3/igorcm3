@@ -15,10 +15,11 @@ Atualmente, trabalho na [Unoesc](https://www.unoesc.edu.br/) fazendo parte do ti
  </div>
   
   
- <div>
+<div align="center">
+  
   ![Snake animation](https://github.com/igorcm3/igorcm3/blob/output/github-contribution-grid-snake.svg)
- 
-</div>  
+  
+ </div> 
 
 ## Skills:
 - Java 8+
