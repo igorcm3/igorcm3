@@ -24,6 +24,7 @@ Atualmente, trabalho na [Unoesc](https://www.unoesc.edu.br/) fazendo parte do ti
 - Java 8+
 - Spring Framework ( Spring Boot, Spring Data JPA, Spring Security, Spring Web... )
 - JPA e Hibernate;
+- Mensageria com RabbitMQ
 - Banco de dados relacional Oracle;
 - Javascript (JQuery, Ajax, SweetAlert2);
 - HTML (JSP, Thymeleaf);
