@@ -2,7 +2,7 @@
 
 **Senior Backend Software Engineer** focused on Kotlin, Java, Spring Boot, distributed systems, and SaaS platforms.
 
-I work on backend-heavy products where architecture, reliability, maintainability, and product delivery matter. I am also **co-founder at Vevox Solucoes Digitais**, where I help build Fofito, a multi-tenant SaaS platform for pet shops and veterinary clinics.
+I work on backend-heavy products where architecture, reliability, maintainability, and product delivery matter. I am also **co-founder at Vevox Soluções Digitais**, where I help build Fofito, a multi-tenant SaaS platform for pet shops and veterinary clinics.
 
 Currently based in Brazil and open to international software engineering opportunities, especially in Milan and the EU.
 
